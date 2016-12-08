@@ -1,0 +1,4 @@
+﻿  doctorMenu.cpp
+c:\users\chris\documents\visual studio 2015\projects\practiceapplication1\practiceapplication1\doctormenu.cpp(57): warning C4715: 'doctorMenu::displayMainMenu': not all control paths return a value
+  PracticeApplication1.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2015\Projects\PracticeApplication1\Debug\PracticeApplication1.exe
+  PracticeApplication1.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2015\Projects\PracticeApplication1\Debug\PracticeApplication1.pdb (Full PDB)
