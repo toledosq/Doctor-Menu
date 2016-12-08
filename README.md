@@ -10,3 +10,7 @@ The application also automatically calculates a patient's BMI based off of their
 
 As of 12/8/2016, there are no constraints on information provided. This project was simply an experiment to see how
 well I had retained my knowledge of C++ from university classes.
+
+TO RUN:
+The folder included is the project folder if you wish to run the application from Microsoft Visual Studio.
+Otherwise, the independent files are included seperately from the folder.
